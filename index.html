@@ -2,12 +2,20 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Absolutely Pointless Button - The most useless button ever created!">
   <title>Absolutely Pointless Button</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <button class="btn" id="pointlessBtn">Do Not Press!</button>
-  <div class="message" id="msg"></div>
+  <div class="container">
+    <button class="btn" id="pointlessBtn">Do Not Press!</button>
+    <div class="message" id="msg"></div>
+    <div class="stats" id="stats">
+      <span class="press-count">Presses: 0</span>
+      <span class="mood-indicator">Mood: 😊</span>
+    </div>
+  </div>
   <script src="script.js"></script>
 </body>
 </html>
