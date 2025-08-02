@@ -1,6 +1,6 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-# Absolutely Pointless Button 🎯
+# Pointless Touch 🎯
 
 ## Basic Details
 ### Team Name: Individual
@@ -50,30 +50,30 @@ python -m http.server 8000
 ### Project Documentation
 For Software:
 
-# Screenshots
+# Screenshots<img width="1920" height="1080" alt="Screenshot from 2025-08-02 23-52-20" src="https://github.com/user-attachments/assets/ab09d5ea-c113-4685-8bf7-3598c1108b54" />
+
 ![Main Interface]()
 *The main interface showing the tempting "Do Not Press!" button*
+<img width="1920" height="1080" alt="Screenshot from 2025-08-02 23-52-23" src="https://github.com/user-attachments/assets/132080c2-18c4-489e-b871-d4fe780b30df" />
 
 ![Button Clicked](screenshots/button-clicked.png)
 *The moment of truth when curiosity gets the better of the user*
+<img width="1920" height="1080" alt="Screenshot from 2025-08-02 23-52-26" src="https://github.com/user-attachments/assets/99a945c3-9fff-44d0-9f5a-7759a93b5d61" />
 
 ![Message Display](screenshots/message-display.png)
 *The cheeky confirmation message that appears for 2 seconds*
-
-# Diagrams
-![User Flow](diagrams/user-flow.png)
-*The simple yet effective user interaction flow*
+<img width="1920" height="1080" alt="Screenshot from 2025-08-02 23-52-34" src="https://github.com/user-attachments/assets/31f8d2cb-87d9-4786-9b75-f01ef586e6f0" />
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 
 # Hosted Link
-![](https://pointless-eta.vercel.app/)
+![](https://pointless-touch.vercel.app/)
 
 
 ## Team Contributions
-[Your Name] - Documentation + Code
+Abhijith B - Documentation + Code
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
